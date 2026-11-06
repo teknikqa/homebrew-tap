@@ -1,6 +1,6 @@
 cask "codeagent-meter" do
-  version "1.10.0"
-  sha256 "107b04cb0c6c65cc09fab60ff4dee7ace1a3f47e1617b02c12884ee2fd6ee4a3"
+  version "1.11.0"
+  sha256 "25477ccf1c7ff2ef9e346e132770b9bd307a6092f3081f179f05484929ab07bd"
 
   url "https://github.com/teknikqa/codeagent-meter/releases/download/v#{version}/CodeAgent-Meter.zip"
   name "CodeAgent Meter"
